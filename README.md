@@ -63,5 +63,18 @@ Derived conclusions to support marketing and sales strategies.
 
 ## Dashboard
 <img width="1852" height="1325" alt="Screenshot 2025-10-02 133222" src="https://github.com/user-attachments/assets/304023c9-5990-43ba-8462-27caf22c14ae" />
+## Final Conclusion
 
+The analysis shows that middle-aged, married males with higher incomes and shorter commutes are the most likely bike buyers.
+This insight allows the business to:
+
+Focus marketing campaigns on the middle-age demographic.
+
+Offer discounts or financing options for lower-income groups to improve sales.
+
+Target regions and education segments where bike adoption is higher.
+
+Improve outreach in commute segments (0–5 miles), as they show stronger purchase intent.
+
+This interactive dashboard provides a comprehensive view of customer behavior and serves as a valuable decision-support tool for the Cycle Store.
  
