@@ -16,3 +16,47 @@ Regional and educational differences among buyers.
 This dashboard provides business insights for better targeted marketing, sales strategy, and customer profiling.
 ## Dataset Used
 - <a href="https://github.com/Radil-Chowdhury/Data-Analysis-Dashboard/blob/main/Project%2001.xlsx">Dataset</a>
+## Key Questions (KPIs)
+
+These are the main business questions (KPIs) the dashboard answers:
+
+What is the average income of customers who purchased bikes vs. those who didn’t?
+
+Which age group contributes the most to bike purchases?
+
+How does commute distance affect the likelihood of purchasing a bike?
+
+Does gender influence bike buying patterns?
+
+What role do education level and marital status play in bike sales?
+
+Which regions have the highest sales performance?
+Dashboard Interaction <a href="https://github.com/Radil-Chowdhury/Data-Analysis-Dashboard/blob/main/Screenshot%202025-10-02%20133222.png">View Dashboard</a>
+
+## Process
+
+Data Cleaning & Preparation
+
+Removed duplicates, handled missing values, standardized columns.
+
+Converted categorical data (Gender, Marital Status, Region, Education) into structured fields.
+
+Exploratory Data Analysis (EDA)
+
+Used pivot tables and charts to analyze customer demographics, commute distances, and purchase behavior.
+
+Dashboard Creation
+
+Built interactive slicers for filtering by Marital Status, Region, and Education.
+
+Added charts:
+
+Bar chart for income vs purchase.
+
+Line charts for commute distance & age brackets.
+
+Comparative visuals for gender and marital status.
+
+Insights & Recommendations
+
+Derived conclusions to support marketing and sales strategies.
