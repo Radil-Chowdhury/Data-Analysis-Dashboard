@@ -60,3 +60,8 @@ Comparative visuals for gender and marital status.
 Insights & Recommendations
 
 Derived conclusions to support marketing and sales strategies.
+
+## Dashboard
+<img width="1852" height="1325" alt="Screenshot 2025-10-02 133222" src="https://github.com/user-attachments/assets/304023c9-5990-43ba-8462-27caf22c14ae" />
+
+ 
