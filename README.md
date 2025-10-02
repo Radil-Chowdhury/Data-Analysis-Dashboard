@@ -1,6 +1,6 @@
 # Data-Analysis-Dashboard
 I have developed a comprehensive project in Excel that focuses on analyzing and visualizinof this project is to study customer behavior and purchasing patterns by exploring different demographic and lifestyle factors such as income, gender, age, marital status, education, region, and commute distance.
-#Cycle Store Data Analysis (Interactive Dashboard using MS Excel)
+# Cycle Store Data Analysis (Interactive Dashboard using MS Excel)
 ## Project Objective
 
 The main objective of this project is to analyze customer purchasing behavior for bike sales and build an interactive dashboard in Excel that helps stakeholders understand:
