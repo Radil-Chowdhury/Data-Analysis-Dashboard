@@ -15,4 +15,4 @@ Regional and educational differences among buyers.
 
 This dashboard provides business insights for better targeted marketing, sales strategy, and customer profiling.
 ## Dataset Used
-- <a herf="https://github.com/Radil-Chowdhury/Data-Analysis-Dashboard/blob/main/Project%2001.xlsx">Dataset</a>
+- <a href="https://github.com/Radil-Chowdhury/Data-Analysis-Dashboard/blob/main/Project%2001.xlsx">Dataset</a>
